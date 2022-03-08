@@ -1,0 +1,8 @@
+FB000001|Appt000001|Customer is satisfied with the service.|2022-01-02|Us000002
+FB000002|Appt000002|Customer Cancelled the Appointment.|2021-12-31|Us000002
+FB000003|Appt000003|5 / 5 Rating. Recommend to others|2022-02-22|Us000007
+FB000005|Appt000005|?|?|?
+FB000006|Appt000006|Customer is very satisfied with the service.|2021-12-24|Us000003
+FB000007|Appt000007|Very Naise Service.|2021-12-31|Us000003
+FB000008|Appt000008|Nice|2021-12-30|Us000002
+FB000009|Appt000009|?|?|?
